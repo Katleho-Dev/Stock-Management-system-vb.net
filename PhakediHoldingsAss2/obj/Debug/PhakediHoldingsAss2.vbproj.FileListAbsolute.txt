@@ -1,0 +1,11 @@
+C:\Users\katle\OneDrive\Documents\Visual Studio 2012\Projects\PhakediHoldingsAss2\PhakediHoldingsAss2\bin\Debug\PhakediHoldingsAss2.exe.config
+C:\Users\katle\OneDrive\Documents\Visual Studio 2012\Projects\PhakediHoldingsAss2\PhakediHoldingsAss2\bin\Debug\PhakediHoldingsAss2.exe
+C:\Users\katle\OneDrive\Documents\Visual Studio 2012\Projects\PhakediHoldingsAss2\PhakediHoldingsAss2\bin\Debug\PhakediHoldingsAss2.pdb
+C:\Users\katle\OneDrive\Documents\Visual Studio 2012\Projects\PhakediHoldingsAss2\PhakediHoldingsAss2\bin\Debug\PhakediHoldingsAss2.xml
+C:\Users\katle\OneDrive\Documents\Visual Studio 2012\Projects\PhakediHoldingsAss2\PhakediHoldingsAss2\obj\Debug\PhakediHoldingsAss2.Form1.resources
+C:\Users\katle\OneDrive\Documents\Visual Studio 2012\Projects\PhakediHoldingsAss2\PhakediHoldingsAss2\obj\Debug\PhakediHoldingsAss2.Resources.resources
+C:\Users\katle\OneDrive\Documents\Visual Studio 2012\Projects\PhakediHoldingsAss2\PhakediHoldingsAss2\obj\Debug\PhakediHoldingsAss2.vbproj.GenerateResource.Cache
+C:\Users\katle\OneDrive\Documents\Visual Studio 2012\Projects\PhakediHoldingsAss2\PhakediHoldingsAss2\obj\Debug\PhakediHoldingsAss2.exe
+C:\Users\katle\OneDrive\Documents\Visual Studio 2012\Projects\PhakediHoldingsAss2\PhakediHoldingsAss2\obj\Debug\PhakediHoldingsAss2.xml
+C:\Users\katle\OneDrive\Documents\Visual Studio 2012\Projects\PhakediHoldingsAss2\PhakediHoldingsAss2\obj\Debug\PhakediHoldingsAss2.pdb
+C:\Users\katle\OneDrive\Documents\Visual Studio 2012\Projects\PhakediHoldingsAss2\PhakediHoldingsAss2\bin\Debug\PhakediAss2.accdb
