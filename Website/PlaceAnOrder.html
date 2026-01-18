@@ -1,0 +1,122 @@
+<html>
+<head>
+<title> Phakedi Cafe`</title>
+ <div class="banner">
+    <img src="CafeLogo.png" alt="Shop Logo" class="logo">
+    <h1>Phakedi Cafe`</h1>
+  </div>
+	<link rel="stylesheet" href="stylesheetCSS.css" type="text/css">
+</head>
+<body>
+
+<header>
+<h1>Phakedi Cafe`</h1>
+<div class="nav">
+<nav title="This is our navigation menu">
+	<a href="PhakediIndex.html">Home</a>
+	<a href ="PlaceAnOrder.html">Place an Order</a>
+	<a href="AboutUs1.html">About Us</a>
+
+</nav>
+</div>
+</header>
+<section class="order-form">
+  <u><h1>Place an Order</h1></u>
+
+  <form id="orderForm">
+    <label for="customerName">Customer Name</label>
+    <input type="text" id="customerName" placeholder="Enter your name">
+
+    <label for="product">Product</label>
+    <select id="product">
+      <option value="20">Chicken Mayo - R20</option>
+      <option value="15">Grilled Cheese - R15</option>
+      <option value="20">Ham Sandwich - R20</option>
+	  <option value="35">Tramazzini - R35</option>
+	  <option value="21">Glazed Doughnut - R21</option>
+	  <option value="25">Blueberry Muffin - R25</option>
+	  <option value="18">Brownie - R18</option>
+	  <option value="21">Chocolate Doughnut - R21</option>
+	  <option value="18">Orange Juice - R18</option>
+	  <option value="20">Mango Slushy- R20</option>
+	  <option value="20">Strawberry Slushy- R20</option>
+	  <option value="19">Rasberry Cooler - R19</option>
+	  <option value="30">Cappuccino - R30</option>
+	  <option value="32">Cafe` Latte - R32</option>
+	  <option value="28">Black Coffee - R28</option>
+	  <option value="30">Hot Chocolate - R30</option>
+    </select>
+
+    <label for="quantity">Quantity</label>
+    <input type="number" id="quantity" value="1" min="1">
+
+    <div class="options">
+      <label><input type="radio" name="payment" value="card"> Card</label>
+      <label><input type="radio" name="payment" value="cash"> Cash</label>
+    </div>
+
+    <div class="terms">
+      <label><input type="checkbox" id="terms"> I agree to the terms and conditions</label>
+    </div>
+
+    <button type="submit">Order Now</button>
+  </form>
+  
+
+
+<section id="cart-section">
+  <h3>🛒 Shopping Cart</h3>
+  <ul id="cart"></ul>
+  <p id="totals">Subtotal: R0.00 | VAT: R0.00 | Total: R0.00</p>
+  <button id="checkout-btn" onclick="checkout()">Checkout</button>
+</section>
+  
+</section>
+
+	<br>
+	
+	
+	<footer>
+	<div class="footercontainer1">
+	<!Left align: Contact us>
+	<div style="font-size:19px">
+	<h4>Contact us</h4>
+	<ul>
+	<li>Phone: 0219413535</li>
+	<li>Email address: phakediH21@gmail.com</li>
+	</ul>
+	</div>
+	</div>
+	
+	<!Store Locations>
+	<div class="footercontainer2">
+	<div style="font-size:19px">
+	<h5>Store Locations</h5>
+	<ul>
+	<li>Shop no 8 Eyethu lifestyle center</li>
+	<li> Shop no 23 Dobsonville Mall</li>
+	</ul>
+	</div>
+	</div>
+	
+	<!Social Media links>
+	<div class="footer-column">
+	<h3> Our Social Media pages</h3>
+	<div class="social-icons">
+  <a href="https://facebook.com/yourshop">
+    <img src="icons8-facebook-logo-48.png" alt="Facebook">
+  </a>
+  <a href="https://instagram.com/yourshop">
+    <img src="icons8-instagram-logo-48.png" alt="Facebook">
+  </a>
+  <a href="https://tiktok.com/yourshop">
+    <img src="icons8-tiktok-30.png" alt="Facebook">
+  </a>
+  </div>
+  
+<p> Copyrights: &copy</p>
+</footer>
+<script src="Javacalc.js"></script>
+</body>
+
+</html>
